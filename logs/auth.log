@@ -1,1 +1,5 @@
-
+Apr 27 11:15:02 server sshd[2101]: Failed password for admin from 198.51.100.23
+Apr 27 11:15:05 server sshd[2103]: Failed password for admin from 198.51.100.23
+Apr 27 11:15:08 server sshd[2105]: Failed password for admin from 198.51.100.23
+Apr 27 11:15:15 server sshd[2110]: Accepted password for admin from 198.51.100.23
+Apr 27 11:16:01 server sudo: admin : COMMAND=/bin/ls /root
